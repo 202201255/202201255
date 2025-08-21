@@ -119,7 +119,7 @@ OS • DBMS • Computer Networks • Algorithms • OOP • System Design
 ### 🐍 Fun Section
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rathodjay19/rathodjay19/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/202201255/202201255/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
