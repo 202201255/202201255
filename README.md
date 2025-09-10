@@ -13,12 +13,10 @@
   <a href="https://github.com/202201255">
     <img src="https://img.shields.io/badge/GitHub-@202201255-181717?logo=github&style=for-the-badge" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/jay-rathod-54333b253/">
     <img src="https://img.shields.io/badge/LinkedIn-Jay%20Rathod-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-YOUR--EMAIL%40gmail.com-EA4335?logo=gmail&style=for-the-badge" alt="Email"/>
-  </a>
+  
 </p>
 
 
@@ -64,16 +62,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/202201255/202201255/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌟 Featured Projects
 
 * 🔹 **[Time Series Forecasting](https://github.com/202201255/TimeSeries-Forecasting)** – Applied ARIMA, SARIMA, and LSTM for traffic volume prediction.
-* 🔹 **[Library Management System](https://github.com/202201255/Library-Management-System)** – Role-based C++ OOP project.
 * 🔹 **[IPL DBMS Project](https://github.com/202201255/DBMS_Project)** – Complete ER model, schema, queries & normalization.
 
 ---
@@ -82,8 +74,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jay-rathod19/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge\&logo=firefox\&logoColor=white)](https://github.com/202201255)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-rathod-54333b253/)
+
 
 </div>
 
